@@ -1,0 +1,24 @@
+{
+  "name": "Redacted",
+  "designer": "Christian Naths",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 2986,
+  "fonts": [
+    {
+      "name": "Redacted",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Redacted-Regular.ttf",
+      "postScriptName": "RedactedRegular",
+      "fullName": "Redacted Regular",
+      "copyright": "Copyright (c) 2013 Christian Naths. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-09-18"
+}

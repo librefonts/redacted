@@ -1,0 +1,34 @@
+Fonts
+  Font:
+    Common name: Redacted
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright © 2013 Christian Naths. All rights reserved.
+    License: SIL OPEN FONT LICENSE Version 1.1
+    License url: http://scripts.sil.org/OFL
+    Version: 1.0
+    Vendor: Christian Naths
+    Vendor url: https://github.com/christiannaths/Redacted-Font
+    Designer: Christian Naths
+    Designer url: http://christiannaths.com
+    Glyph count: 221
+    Character count: 219
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 89
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
